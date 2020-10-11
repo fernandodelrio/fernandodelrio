@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+- 📱 I'm a senior iOS developer, working with iOS for almost 6 years
+- 🌱 Currently learning SwiftUI and Combine framework
+- 🔭 Working on a personal app, planning to release next year
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fhdelrio), [Twitter](https://twitter.com/fernandohdelrio), [email](fernandomdr@gmail.com)
 
 <!--
 **fernandodelrio/fernandodelrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
