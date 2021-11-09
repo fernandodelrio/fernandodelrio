@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 📱 I'm a senior iOS developer, working with iOS for almost 6 years
-- 🌱 Currently learning SwiftUI and Combine framework
+- 📱 I'm a senior iOS developer, working with iOS for 7+ years
+- 🌱 Currently learning SwiftUI, Combine framework, Async Await
 - 🔭 Working on a personal app, planning to release next year
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fhdelrio), [Twitter](https://twitter.com/fernandohdelrio), [email](fernandomdr@gmail.com)
 
