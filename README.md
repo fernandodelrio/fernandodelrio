@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 📱 I'm a senior iOS developer, working with iOS for 12+ years
-- 🌱 Objective-C, SwiftUI, Combine, Async Await
+- 🌱 Objective-C, Swift, UIKit, SwiftUI, Combine, Async Await
 - 🔭 Working on a personal app, planning to release next year
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fhdelrio), [email](fernandomdr@gmail.com)
 
